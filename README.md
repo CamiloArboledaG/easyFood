@@ -21,10 +21,8 @@ https://www.figma.com/proto/aXZ4PHD7tsUFX1L3ogol6q/Food-delivery-app-Ui-kit-Comm
 
 This is the creation process for the screen that the user sees for the first time.
 
-![Screenshot_2021-03-26-23-26-40-390_host exp exponent](https://user-images.githubusercontent.com/50644185/116796963-48f15280-aaa6-11eb-87b0-ece724b8a28b.jpg)
-![Screenshot_2021-03-26-23-48-49-520_host exp exponent](https://user-images.githubusercontent.com/50644185/116796965-4b53ac80-aaa6-11eb-8752-17ed01554cd3.jpg)
-![Screenshot_2021-03-27-23-10-02-740_host exp exponent](https://user-images.githubusercontent.com/50644185/116796967-4bec4300-aaa6-11eb-974c-1e2b890787f2.jpg)
-![Screenshot_2021-03-28-01-18-48-248_host exp exponent](https://user-images.githubusercontent.com/50644185/116796968-4d1d7000-aaa6-11eb-8341-348b34f188c8.jpg)
+![Frame 6](https://user-images.githubusercontent.com/50644185/116797139-f31daa00-aaa7-11eb-823a-58abd239dca0.png)
+
 
 ## additional information  🤓
 
